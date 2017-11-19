@@ -1,0 +1,45 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-color:  #147aa7;
+  height:30% ;
+  padding: 15px;
+}
+
+body{
+  background-color: #1d8dc2 ;
+  height:70% ;
+}
+.container div{
+  display: inline-block;
+}
+.class2 p{
+  display: inline-block;
+}
+
+.boton{
+  padding: 10px;
+  background-color: #147aa7;
+  color: white;
+  font-size: 15px;
+  border: none;
+  width: 300px;
+}
+
+.t1{
+  background-color: grey;
+  padding: 10px;
+}
+
+.boton2{
+  color: white;
+  background-color: green;
+  padding: 10px;
+}
+
+
+.f2{
+  color: white;
+}
